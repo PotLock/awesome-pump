@@ -44,6 +44,27 @@
     "active": true
   },
   {
+    "name": "news2pump.fun",
+    "twitter": "news2pump",
+    "description": "Launch & Trade Instantly on X solana Launch:  @news2pumplaunch, (token name), ($ticker), (description)(buy # SOL)",
+    "url": "https://news2pump.fun",
+    "chatLink": "http://t.me/News2Pump",
+    "profileImage": "https://pbs.twimg.com/profile_images/1882568718539956224/ukDuFyj1_400x400.jpg",
+    "tags": [
+      "bonding-curves",
+      "meme-coins",
+      "socialfi"
+    ],
+    "blockchain": [
+      "Solana"
+    ],
+    "tvl": "",
+    "github": "",
+    "contractAddress": null,
+    "relation": "Pump/fun for tweets around news",
+    "active": true
+  },
+  {
     "name": "Virtuals",
     "twitter": "virtuals_io",
     "description": "Society of AI Agents",
